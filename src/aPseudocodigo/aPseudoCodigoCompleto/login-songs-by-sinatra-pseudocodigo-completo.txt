@@ -1,0 +1,8 @@
+Abrir Navegador Chrome
+Abrir la pagina http://songs-by-sinatra.herokuapp.com/
+Esperar que se cargue la pagina
+Dar click en la liga login que se encuentra despues de la foto de Frank Sinatra
+Esperar que se cargue la pagina de login
+Ingresar como username: frank y como password: sinatra
+Dar click en el boton de login
+Esperar que aparezca la leyenda "You are now logged in as frank"
