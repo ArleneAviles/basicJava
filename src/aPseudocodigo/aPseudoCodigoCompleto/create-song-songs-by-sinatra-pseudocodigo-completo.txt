@@ -1,0 +1,29 @@
+Hacer login
+Escribir en la barra del navegador el siguiente link http://songs-by-sinatra.herokuapp.com/songs/new
+Esperar que se cargue la pagina
+Verificar que aparezca la leyenda Add A New Song con los siguientes campos
+	Tittle, Lenght, Date, Lyrics
+Agregar la siguiente informacion
+	Tittle: Intro Princesita Sofia
+	Lenght: 55
+	05/05/2020
+	Lyrics:
+	Yo era una niña del pueblo era feliz
+	De pronto una princesa me volvi
+	Y ahora teng que aprender como hacerlo bien
+	Tanto que aprender
+
+	Nueva familia y en el castillo estar
+	A la escuela real ir a estudiar
+	Un mundo encantado que conocer
+	Emocionada de ser
+	Sofia primera
+Dar click al boton de 
+Esperar que se cargue la pagina de la cancion agregada http://songs-by-sinatra.herokuapp.com/songs/ID_de_la_nueva_cancion
+Verificar que en la pagina existan los siguientes elementos:
+	Leyenda: Song successfully added en liston rosa
+	Datos agregados correctamente:
+		nombre de la cancion, release date, lenght, lyric
+	Link: edit this song
+	Boton: delete this song
+	Link: logout
