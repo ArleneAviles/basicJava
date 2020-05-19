@@ -1,0 +1,19 @@
+5 jamon 10 bolonia
+
+que tipo de sandwich quieres?() {
+respuestaTipoSandwich() = Jamon/Bolonia
+    if (respuestaTipoSandwich = jamon) {
+        numeroSandwichJamon = 0
+        while(numeroSandwichJamon < 5) {
+            hacerSandwichJamon();
+            suma +1 numeroSandwichJamon
+            }
+        }
+    else {
+        numeroSandwichBolonia = 0
+        while (numeroSandwichBolonia < 10 {
+            hacerSandwichBolonia();
+            suma + 1 numeroSandwichBolonia
+            }
+        }
+    } 
