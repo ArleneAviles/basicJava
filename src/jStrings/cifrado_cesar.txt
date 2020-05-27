@@ -1,4 +1,4 @@
-Implemente el cifrado de Cesar, como se muestra abajo.
+iImplemente el cifrado de Cesar, como se muestra abajo.
 
 $ ./cifrado_cesar 13
 mensaje inicial:  HELLO

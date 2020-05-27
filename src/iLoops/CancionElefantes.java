@@ -1,6 +1,6 @@
 package iLoops;
 
-public class CancionElefantes {
+public class  CancionElefantes {
 
     public static void main(String[] args) {
         String plural = " Elefantes se columpiaban";
